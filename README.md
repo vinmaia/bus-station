@@ -1,4 +1,4 @@
-# rodoviaria
+# bus-station
 
 enterprise: {
 name: String,
